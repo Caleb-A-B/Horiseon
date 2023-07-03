@@ -25,3 +25,6 @@ THEN I find a concise, descriptive title
 ```
 ## Mock up
 
+![Alt text](image.png)
+
+## Github page
